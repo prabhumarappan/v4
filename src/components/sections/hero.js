@@ -69,7 +69,7 @@ const Hero = () => {
       </a> and {''} <a href="https://dozee.health/" target="_blank" rel="noreferrer">
         Dozee
       </a> 
-      . My interests like in Backend and Infrastructure.
+      . I have mostly worked on Backend, Data Engineering and Infrastructure.
     </p>
   );
   const five = (
